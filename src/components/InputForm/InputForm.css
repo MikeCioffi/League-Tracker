@@ -1,0 +1,25 @@
+.inputform{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    margin: auto;
+  color: white;
+
+}
+.inputform > div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+}
+
+@media (max-width: 900px) {
+    .inputform {
+      width: 75%;
+      padding: 10px;
+    }
+}
+
+.helper-text{
+  width: 100%; 
+}
