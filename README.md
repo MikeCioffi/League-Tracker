@@ -13,7 +13,7 @@
 Here's a brief high-level overview of the tech stack the Match History App uses:
 
 - This project uses the [REACT](https://reactjs.org/) front end in combination with [CharJS](https://www.chartjs.org/). 
-- APIs were developed using [AWS API Gateway] (https://aws.amazon.com/api-gateway/). 
+- APIs were developed using AWS API Gateway (https://aws.amazon.com/api-gateway/). 
 
 <br />
 
